@@ -1,16 +1,38 @@
-## Hi there 👋
+# 📘 AEC505: Econometrics
 
-<!--
-**aec505/aec505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official repository for **AEC505: Econometrics**, offered in the academic term. This repository is dedicated to supporting the course materials, assignments, and projects related to AEC505.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Course Overview
+
+Econometrics (AEC505) focuses on the application of statistical and mathematical models to economic data for the purpose of testing hypotheses and forecasting future trends.
+
+Students will gain hands-on experience with Python programming and econometric modeling using libraries such as `numpy`, `pandas`, `statsmodels`, and `scikit-learn`.
+
+---
+
+## 👨‍🏫 Instructor
+
+- **Dr. Mahin Sharif**  
+  Course Instructor
+
+---
+
+## 👨‍💼 Teaching Assistants
+
+- **Mr. Manojkumar Patil**  
+- **Mr. Suman L**
+
+---
+
+## 🛠 Tools and Technologies
+
+- Python (3.10+)
+- Jupyter Notebooks (via Anaconda)
+- `numpy`, `pandas`, `statsmodels`, `scikit-learn`
+- Basics of GitHub
+
+---
+
+Stay tuned for updates and resources!
